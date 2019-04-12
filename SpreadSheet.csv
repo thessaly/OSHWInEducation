@@ -37,7 +37,7 @@ brand11;2011;ImproveTeachingMethod;University;0613 Computer programming;Conferen
 turner15;2015;ReduceCosts;K12-University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;EvaluationResearch;Qualitative;11;USA;Purdue University
 brey17;2017;BoostCreativity;University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;ExperiencePaper;No evaluation;NA;USA;University of North Carolina
 brock09;2009;Engagement;University;0714 Electronics and automation;Journal;Journal of Computing Sciences in Colleges;ExperiencePaper;No evaluation;NA;USA;University of North Carolina
-lapaglia10;2010;ImproveTeachingMethod;K12;0714 Electronics and automation;Conference;Studies in Health Technology and Informatics;EvaluationResearch;Quantitative;12;Italy;Universitá degli Study di Palermo
+lapaglia10;2010;ImproveTeachingMethod;K12;0714 Electronics and automation;Conference;Studies in Health Technology and Informatics;EvaluationResearch;Quantitative;12;Italy;UniversitÃ¡ degli Study di Palermo
 sarik10;2010;ReduceCosts;University;0723 Textiles;Conference;IEEE Frontiers in Education Conference, FIE;SolutionProposal;Quantitative;12;USA;Columbia University
 somanath17;2017;ReachMoreTargets;K12;0714 Electronics and automation;Conference;ACM Conf. on Human Factors in Computing Systems, CHI;ExperiencePaper;Quantitative;12;Canada;University of Ontario
 candelas15;2015;ReduceCosts;University;0714 Electronics and automation;Journal;IFAC-PapersOnLine;EvaluationResearch;Qualitative;12;Spain;University of Alicante
@@ -46,8 +46,8 @@ brunvand13a;2013;Engagement;K12-University;0613 Computer programming;Conference;
 buechley10b;2010;ImproveTeachingMethod;K12-University;0723 Textiles;Conference;International Conference of the Learning Sciences, ICLS;ExperiencePaper;No evaluation;NA;USA;Massachusetts Institute of Technology
 suzuki17;2017;ImproveTeachingMethod;K12-University;0922 Child care and youth services;Conference;Conference on Human-Computer Interaction;SolutionProposal;Qualitative;13;Japan;Tsukuba University of Technology
 akbal14;2014;Engagement;K12;0211 Audio-visual techniques and media production;Conference;Advances in Computer Entertainment Conference;ExperiencePaper;No evaluation;NA;Germany;Academy of Fine Arts Saar
-chacon17;2017;ReduceCosts;University;0732 Building and civil engineering;Journal;Journal of Professional Issues in Engineering Education and Practice;ExperiencePaper;No evaluation;NA;Spain;Universitat Politècnica de Catalunya
-chacon17b;2017;ImproveTeachingMethod;University;0732 Building and civil engineering;Journal;Computer Applications in Engineering Education;ExperiencePaper;No evaluation;NA;Spain;Universitat Politècnica de Catalunya
+chacon17;2017;ReduceCosts;University;0732 Building and civil engineering;Journal;Journal of Professional Issues in Engineering Education and Practice;ExperiencePaper;No evaluation;NA;Spain;Universitat PolitÃ¨cnica de Catalunya
+chacon17b;2017;ImproveTeachingMethod;University;0732 Building and civil engineering;Journal;Computer Applications in Engineering Education;ExperiencePaper;No evaluation;NA;Spain;Universitat PolitÃ¨cnica de Catalunya
 chang10;2010;ImproveTeachingMethod;K12;0613 Computer programming;Conference;IEEE International Conference on Multimedia and Expo;ExperiencePaper;No evaluation;NA;Taiwan;Asia University
 chorianopoulos12;2012;BoostCreativity;AdultEducation;0613 Computer programming;Conference;ACM SIGCHI Symposium on Engineering Interactive Computing Systems;ExperiencePaper;No evaluation;NA;Greece;Ionian University
 asato15;2015;ReduceCosts;K12-University;0714 Electronics and automation;Conference;International Conference on Intelligent Informatics and Biomedical Sciences;ExperiencePaper;No evaluation;NA;Japan;Okinawa College
@@ -68,8 +68,8 @@ grover14;2014;ImproveTeachingMethod;K12;0714 Electronics and automation;Conferen
 brock14;2014;ImproveTeachingMethod;University;0612 Database and network design and administration;Journal;Journal of Computing Sciences in Colleges;ExperiencePaper;No evaluation;NA;USA;University of North Carolina
 davis13;2013;Engagement;K12;0714 Electronics and automation;Conference;Int. Conf. on Interaction Design and Children, IDC;ExperiencePaper;No evaluation;NA;USA;University of Pennsylvania
 bruce15;2015;ReduceCosts;University;0714 Electronics and automation;Conference;IEEE SoutheastCon;ExperiencePaper;No evaluation;15;USA;University of North Carolina
-deich13;2013;Engagement;K12;0714 Electronics and automation;Conference;International Conference on Tangible, Embedded and Embodied Interaction, TEI;ExperiencePaper;No evaluation;NA;Germany;Bauhaus-Universität Weimar
-calinoiu14;2014;Engagement;University;0811 Crop and livestock production;Conference;IEEE Frontiers in Education Conference, FIE;ExperiencePaper;No evaluation;NA;Romania;"University ""Politehnica"" Timi?oara"
+deich13;2013;Engagement;K12;0714 Electronics and automation;Conference;International Conference on Tangible, Embedded and Embodied Interaction, TEI;ExperiencePaper;No evaluation;NA;Germany;Bauhaus-UniversitÃ¤t Weimar
+calinoiu14;2014;Engagement;University;0811 Crop and livestock production;Conference;IEEE Frontiers in Education Conference, FIE;ExperiencePaper;No evaluation;NA;Romania;University Politehnica Timisoara
 yang10;2010;Engagement;AdultEducation;0213 Fine arts;Conference;International Computer Symposium;EvaluationResearch;Qualitative;15;Taiwan;National University of Tainan
 digiamberardino17;2017;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;International Carpathian Control Conference, ICCC;ExperiencePaper;No evaluation;NA;Italy;Sapienza University
 Wang15;2015;BoostCreativity;K12;0613 Computer programming;Conference;ACM Conference on Innovation and Technology in Computer Science Education, ITiCSE;SolutionProposal;Qualitative;15;China;Chinese Academy of Sciences
@@ -78,7 +78,7 @@ Post17;2017;Engagement;K12-University;0716 Motor vehicles, ships and aircraft;Co
 choi16;2016;BoostCreativity;K12;0723 Textiles;Conference;International Conference of the Learning Sciences, ICLS;EvaluationResearch;Both;16;Korea;Chuncheon National University of Education
 Ortiz16;2016;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;Qualitative;16;USA;LeTourneau University
 Post16;2016;ImproveTeachingMethod;K12;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;ExperiencePaper;Qualitative;16;USA;Embry-Riddle Aeronautical University
-doucet17;2017;ReachMoreTargets;University;0611 Computer use ;Conference;ACM Southeast Conference, ACMSE;ExperiencePaper;No evaluation;NA;USA;Texas Woman’s University 
+doucet17;2017;ReachMoreTargets;University;0611 Computer use ;Conference;ACM Southeast Conference, ACMSE;ExperiencePaper;No evaluation;NA;USA;Texas WomanÂ’s University 
 sripakagorn14;2014;ImproveTeachingMethod;AdultEducation;0714 Electronics and automation;Conference;IEEE International Conference on Teaching, Assessment and Learning for Engineering, TALE;EvaluationResearch;Qualitative;16;Thailand;Chulalongkorn University
 Ulrich17;2017;ReduceCosts;University;0714 Electronics and automation;Conference;International Conference on Research and Education in Mechatronics, REM;SolutionProposal;Quantitative;16;Germany;Baden-Wuerttemberg Cooperative State University
 Meintjes16;2016;BoostCreativity;K12;0714 Electronics and automation;Conference;Int. Conf. on Interaction Design and Children, IDC;SolutionProposal;Both;17;Germany;University of Bremen
@@ -92,7 +92,7 @@ filho17;2017;ImproveTeachingMethod;University;0613 Computer programming;Conferen
 weller08a;2008;BoostCreativity;K12;0714 Electronics and automation;Conference;Turkish Online Journal of Educational Technology;SolutionProposal;Qualitative;20;USA;Carnegie Mellon University
 frederickson17;2017;ImproveTeachingMethod;University;0533 Physics;Conference;American Society for Engineering Education conf. and exposition, ASEE;ExperiencePaper;No evaluation;NA;USA;University of Central Arkansas
 Fritz16;2016;WomenEngagement;University;0613 Computer programming;Conference;Conference on Information Technology Education;ExperiencePaper;No evaluation;NA;USA;University of Cincinnati
-fujima10;2010;ImproveTeachingMethod;K12;0714 Electronics and automation;Conference;IET International Conference on Frontier Computing;ExperiencePaper;No evaluation;NA;Germany;Fraunhofer IDMT
+fujima10;2010;ImproveTeachingMethod;K12;0714 Electronics and automation;Conference;IET International Conference on Frontier Computing;ExperiencePaper;No evaluation;NA;Germany;FraunhoferÂ IDMT
 Dasios15;2015;ReduceCosts;University;0612 Database and network design and administration;Conference;ACM International Conference on PErvasive Technologies Related to Assistive Environments;ExperiencePaper;No evaluation;NA;Greece;Hellenic Open University
 garrigos17;2017;BoostCreativity;K12-University;0714 Electronics and automation;Conference;IEEE Global Engineering Education Conf., EDUCON;ExperiencePaper;No evaluation;NA;Spain;Miguel Hernandez University of Elche
 demoraisbertoldi14;2014;Engagement;K12;0533 Physics;Conference;International Astronautical Congress;ExperiencePaper;No evaluation;NA;Brazil;University of Brasilia
@@ -104,7 +104,7 @@ gregg17;2017;ImproveTeachingMethod;K12-University;0714 Electronics and automatio
 griffin12;2012;BoostCreativity;K12;0613 Computer programming;Conference;IEEE Integrated STEM Education Conference, ISEC;ExperiencePaper;No evaluation;NA;USA;University of Pennsylvania
 fernandez15a;2015;Reusability;K12;0714 Electronics and automation;Conference;International Conference on Remote Engineering and Virtual Instrumentation, REV;ExperiencePaper;No evaluation;NA;Spain;National Distance Education University
 fernandez15b;2015;Reusability;University;0613 Computer programming;Conference;Workshop on Information Processing and Control;ExperiencePaper;No evaluation;NA;Argentina;Universidad Nacional de Mar del Plata
-Guerra16c;2016;Engagement;University;0613 Computer programming;Conference;ACM Conference on Innovation and Technology in Computer Science Education, ITiCSE;ExperiencePaper;No evaluation;NA;Perú;Universidad Nacional Mayor de San Marcos 
+Guerra16c;2016;Engagement;University;0613 Computer programming;Conference;ACM Conference on Innovation and Technology in Computer Science Education, ITiCSE;ExperiencePaper;No evaluation;NA;PerÃº;Universidad Nacional Mayor de San Marcos 
 walter14;2014;ImproveTeachingMethod;K12;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;EvaluationResearch;Both;22;USA;Rochester Institute of Technology
 guler13;2013;WomenEngagement;K12-University;0715 Mechanics and metal trades;Conference;Int. Conf. on Interaction Design and Children, IDC;ExperiencePaper;No evaluation;NA;USA;Carnegie Mellon University
 foltz14;2014;ImproveTeachingMethod;University;0612 Database and network design and administration;Journal;Journal of Computing Sciences in Colleges;ExperiencePaper;No evaluation;NA;USA;University of Tennessee
@@ -116,18 +116,18 @@ He16a;2016;ReachMoreTargets;University;0714 Electronics and automation;Conferenc
 gil14;2014;ReduceCosts;University;0714 Electronics and automation;Conference;Tecnologias Aplicadas a la Ensenanza de la Electronica;ExperiencePaper;No evaluation;NA;Spain;University of Navarra
 gilreath15;2015;ReduceCosts;K12;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;ExperiencePaper;No evaluation;4;USA;Guilford College
 schelly15;2015;ReduceCosts;K12-University;0714 Electronics and automation;Journal;Journal of Visual Languages and Computing;EvaluationResearch;Qualitative;22;USA;Michigan Technological University
-gonzaleznalda15;2015;ReduceCosts;University;0714 Electronics and automation;Conference;Iberian Conference on Information Systems and Technologies;ExperiencePaper;No evaluation;NA;Spain;Universidad del País Vasco
+gonzaleznalda15;2015;ReduceCosts;University;0714 Electronics and automation;Conference;Iberian Conference on Information Systems and Technologies;ExperiencePaper;No evaluation;NA;Spain;Universidad del PaÃ­s Vasco
 hill13;2013;ImproveTeachingMethod;K12-University;0613 Computer programming;Conference;Conference on Information Technology Education;ExperiencePaper;No evaluation;NA;USA;Rochester Institute of Technology
-holman12;2012;BoostCreativity;AdultEducation;0212 Design;Conference;International Conference on Tangible, Embedded and Embodied Interaction, TEI;ExperiencePaper;No evaluation;NA;Canada;Queen’s University
+holman12;2012;BoostCreativity;AdultEducation;0212 Design;Conference;International Conference on Tangible, Embedded and Embodied Interaction, TEI;ExperiencePaper;No evaluation;NA;Canada;QueenÂ’s University
 honess17;2017;ImproveTeachingMethod;K12;0613 Computer programming;Conference;International Astronautical Congress;ExperiencePaper;No evaluation;NA;UK;Raspberry Pi Foundation
-guerrero15;2015;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;Procedia Computer Science;ExperiencePaper;No evaluation;NA;Mexico;Instituto Tecnológico de Nuevo León
+guerrero15;2015;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;Procedia Computer Science;ExperiencePaper;No evaluation;NA;Mexico;Instituto TecnolÃ³gico de Nuevo LeÃ³n
 huang11;2011;BoostCreativity;K12;0723 Textiles;Conference;Int. Conf. on Interaction Design and Children, IDC;ExperiencePaper;No evaluation;NA;USA;University of Colorado
 huang12a;2012;Engagement;K12;0714 Electronics and automation;Conference;ACM Conf. on Human Factors in Computing Systems, CHI;ExperiencePaper;No evaluation;NA;USA;University of Colorado
 guvercin15;2015;Reusability;University;0714 Electronics and automation;Conference;International Conference on Electronics Computer and Computation;ExperiencePaper;No evaluation;NA;Kazakhstan;Suleyman Demirel University
 Yeo17;2017;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;AIAA Aerospace Sciences Meeting;ExperiencePaper;Quantitative;22;USA;University of Maryland
 husseini17;2017;ImproveTeachingMethod;University;0613 Computer programming;Conference;American Society for Engineering Education conf. and exposition, ASEE;ExperiencePaper;No evaluation;NA;USA;North Carolina State University
 isaakidis17;2017;BoostCreativity;University;0714 Electronics and automation;Conference;International Conference on Modern Circuits and Systems Technologies, MOCAST;ExperiencePaper;No evaluation;NA;Greece;Alexander Technological Educational Institute of Thessaloniki
-ivan17;2017;ReduceCosts;University;0714 Electronics and automation;Journal;IFAC-PapersOnLine;ExperiencePaper;No evaluation;NA;France;Ecole Nationale d'Ingénieurs de Saint-Etienne
+ivan17;2017;ReduceCosts;University;0714 Electronics and automation;Journal;IFAC-PapersOnLine;ExperiencePaper;No evaluation;NA;France;Ecole Nationale d'IngÃ©nieurs de Saint-Etienne
 jack13;2013;ImproveTeachingMethod;University;0715 Mechanics and metal trades;Conference;American Society for Engineering Education conf. and exposition, ASEE;ExperiencePaper;No evaluation;NA;USA;Grand Valley State University
 hernandezbarrera14;2014;ImproveTeachingMethod;K12-University;0714 Electronics and automation;Conference;IEEE Southeast conference;ExperiencePaper;No evaluation;NA;USA;DeVry University
 kafai11;2011;BoostCreativity;K12;0723 Textiles;Conference;ACM Conference on Creativity & Cognition, C&C;ExperiencePaper;No evaluation;37;USA;University of Pennsylvania
@@ -144,8 +144,8 @@ kronemann10;2010;Engagement;AdultEducation;0714 Electronics and automation;Confe
 kumar17;2017;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;International Conference on Robotics and Automation for Humanitarian Applications, RAHA;ExperiencePaper;No evaluation;NA;India;Amrita University
 kurkovsky17;2017;ImproveTeachingMethod;University;0613 Computer programming;Conference;ACM Conference on Innovation and Technology in Computer Science Education, ITiCSE;ExperiencePaper;No evaluation;NA;USA;Central Connecticut State University
 kwon17;2017;Engagement;K12;0713 Electricity and energy;Conference;International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, IDETC/CIE;ExperiencePaper;No evaluation;NA;USA;Andrews University
-kovalcnk15;2015;ReduceCosts;K12-University;0714 Electronics and automation;Conference;International Conference on Emerging eLearning Technologies and Applications;ExperiencePaper;No evaluation;NA;Slovakia;Technical University of Košice
-Bouquet17;2017;ReduceCosts;University;0533 Physics;Journal;American Journal of Physics;SolutionProposal;Qualitative;24;France; Université Paris-Saclay
+kovalcnk15;2015;ReduceCosts;K12-University;0714 Electronics and automation;Conference;International Conference on Emerging eLearning Technologies and Applications;ExperiencePaper;No evaluation;NA;Slovakia;Technical University of KoÂšice
+Bouquet17;2017;ReduceCosts;University;0533 Physics;Journal;American Journal of Physics;SolutionProposal;Qualitative;24;France; UniversitÃ© Paris-Saclay
 geth13;2013;BoostCreativity;K12;0713 Electricity and energy;Conference;IEEE Power Energy Society General Meeting;ExperiencePaper;Qualitative;25;Belgium;University of Leuven
 krauss14;2014;ReduceCosts;University;0714 Electronics and automation;Conference;Dynamic Systems and Control Conference;ExperiencePaper;No evaluation;NA;USA;Grand Valley State University
 latif16;2016;ReduceCosts;University;0714 Electronics and automation;Journal;Malaysian Journal of Mathematical Sciences;ExperiencePaper;No evaluation;NA;Malaysia;International Islamic University Malaysia
@@ -159,7 +159,7 @@ mabbott14;2014;ImproveTeachingMethod;University;0531 Chemistry;Journal;Journal o
 marcelino12a;2012;Engagement;University;0533 Physics;Conference;International Conference on Remote Engineering and Virtual Instrumentation, REV;ExperiencePaper;No evaluation;NA;Brazil;Universidade Federal de Santa Catarina
 marcelino12b;2012;Engagement;University;0533 Physics;Journal;International Journal of Online Engineering;ExperiencePaper;No evaluation;NA;Brazil;Universidade Federal de Santa Catarina
 macias14;2014;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;Tecnologias Aplicadas a la Ensenanza de la Electronica;ExperiencePaper;No evaluation;NA;Spain;University of Extremadura
-mccullen17;2017;ImproveTeachingMethod;K12-University;0613 Computer programming;Journal;Computing Sciences in Colleges ;ExperiencePaper;No evaluation;NA;USA;Plattsburgh University
+mccullen17;2017;ImproveTeachingMethod;K12-University;0613 Computer programming;Journal;Computing Sciences in CollegesÂ ;ExperiencePaper;No evaluation;NA;USA;Plattsburgh University
 mcclain14;2014;ImproveTeachingMethod;K12;0531 Chemistry;Journal;Journal of Chemical Education;ExperiencePaper;No evaluation;NA;USA;University of Wisconsin-Madison
 megalingam13;2013;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;IEEE International Conference in MOOC, Innovation and Technology in Educationm, MITE;ExperiencePaper;No evaluation;NA;India;Amrita Vishwa Vidyapeetham University
 mellis11;2011;BoostCreativity;AdultEducation;0212 Design;Conference;ACM Conference on Creativity & Cognition, C&C;ExperiencePaper;No evaluation;NA;USA;Massachusetts Institute of Technology
@@ -173,13 +173,13 @@ michels15;2015;ReduceCosts;University;0715 Mechanics and metal trades;Conference
 michels16;2016;ReduceCosts;University;0715 Mechanics and metal trades ;Journal;International Journal of Online Engineering;ExperiencePaper;No evaluation;NA;Brazil;Universidade Federal de Santa Catarina
 minuto14;2014;BoostCreativity;University;0213 Fine arts;Conference;International Working Conference on Advanced Visual Interfaces;ExperiencePaper;No evaluation;Na;Netherlands;University of Twente
 millner11;2011;Engagement;K12;0714 Electronics and automation;Conference;Int. Conf. on Interaction Design and Children, IDC;ExperiencePaper;No evaluation;NA;USA;Massachusetts Institute of Technology
-mora15;2015;Reusability;University;0714 Electronics and automation;Conference;CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies;ExperiencePaper;No evaluation;Na;Colombia;Electronics Engineering of Universidad Pedagógica y Tecnológica de Colombia
+mora15;2015;Reusability;University;0714 Electronics and automation;Conference;CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies;ExperiencePaper;No evaluation;Na;Colombia;Electronics Engineering of Universidad PedagÃ³gica y TecnolÃ³gica de Colombia
 morimoto14;2014;ReduceCosts;K12-University;0714 Electronics and automation;Conference;IEEE Haptics Symposium;ExperiencePaper;No evaluation;NA;USA;Stanford University
 miranda16;2016;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;International Multi-Conference on Society, Cybernetics and Informatics;ExperiencePaper;No evaluation;NA;Mexico;Universidad Nacional Autonoma de Mexico
 Mischie16;2016;ImproveTeachingMethod;University;0613 Computer programming;Conference;IEEE International Symposium on Electronics and Telecommunications;ExperiencePaper;No evaluation;NA;Romania;University of Timisoara
 mitsunaga12;2012;ImproveTeachingMethod;University;0613 Computer programming;Conference;IEEE Global Conference on Consumer Electronics;ExperiencePaper;No evaluation;NA;Japan;Osaka Kyoiku University
 monfredo17;2017;FeedLearningAnalytics;University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;ExperiencePaper;No evaluation;NA;USA;University of Rochester
-mostefaoui17;2017;ReduceCosts;University;0613 Computer programming;Journal;Computer Applications in Engineering Education;ExperiencePaper;No evaluation;NA;Algeria;Université de Mostaganem
+mostefaoui17;2017;ReduceCosts;University;0613 Computer programming;Journal;Computer Applications in Engineering Education;ExperiencePaper;No evaluation;NA;Algeria;UniversitÃ© de Mostaganem
 muthupalaniappan14;2014;ReduceCosts;K12-University;0714 Electronics and automation;Conference;International Conference on Advanced Computing;ExperiencePaper;No evaluation;NA;India;Velammal College of Engineering & Technology
 nam11;2011;ImproveTeachingMethod;University;0715 Mechanics and metal trades;Conference;American Society for Engineering Education conf. and exposition, ASEE;ExperiencePaper;No evaluation;NA;USA;Polytechnic School
 nestor17;2017;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;IEEE International Conference on Microelectronic Systems Education, MSE;ExperiencePaper;No evaluation;NA;USA;Lafayette College
@@ -197,7 +197,7 @@ papazoglou17;2017;ImproveTeachingMethod;University;0613 Computer programming;Con
 pasolini17;2017;ImproveTeachingMethod;University;0714 Electronics and automation;Journal;IEEE Signal Processing Magazine;ExperiencePaper;No evaluation;NA;Italy;University of Bologna
 pattichis17;2017;ImproveTeachingMethod;K12;0613 Computer programming;Conference;ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing - Proceedings;ExperiencePaper;No evaluation;NA;USA;University of New Mexico
 Qi15;2015;ReduceCosts;University;0713 Electricity and energy;Conference;Int. Conf. on Interaction Design and Children, IDC;ExperiencePaper;No evaluation;NA;USA;Massachusetts Institute of Technology
-pereira16;2016;ImproveTeachingMethod;K12-University;0533 Physics;Journal;Revista Brasileira de Ensino de Física;ExperiencePaper;No evaluation;NA;Brazil;Universidade Federal do Rio de Janeiro
+pereira16;2016;ImproveTeachingMethod;K12-University;0533 Physics;Journal;Revista Brasileira de Ensino de FÃ­sica;ExperiencePaper;No evaluation;NA;Brazil;Universidade Federal do Rio de Janeiro
 prima17;2017;Engagement;K12;0533 Physics;Conference;Engineering Physics International Conference;ExperiencePaper;No evaluation;NA;Indonesia;Universitas Pendidikan
 radzi17;2017;ImproveTeachingMethod;University;0613 Computer programming;Conference;International Conference on Engineering Education;ExperiencePaper;No evaluation;NA;Malaysia;Universiti Tenaga Nasional
 raffaeli17;2017;ReduceCosts;University;0533 Physics;Conference;International Computer Engineering Conference, ICENCO;ExperiencePaper;No evaluation;NA;USA;University of Michigan - Dearborn
@@ -209,14 +209,14 @@ rios14;2014;ImproveTeachingMethod;AdultEducation;0714 Electronics and automation
 roscoe14;2014;ImproveTeachingMethod;K12;0714 Electronics and automation;Conference;International Conference on Interactive Technologies and Games;ExperiencePaper;No evaluation;NA;UK;Aberystwyth University
 saparkhojayev15;2015;ImproveTeachingMethod;University;0716 Motor vehicles, ships and aircraft;Conference;International Workshop on Computer Science and Engineering: Information Processing and Control Engineering;ExperiencePaper;No evaluation;NA;Kazakhstan;Almaty Management University
 resnick07;2007;BoostCreativity;K12;0111 Education science;Conference;ACM Conference on Creativity & Cognition, C&C;ExperiencePaper;No evaluation;NA;USA;Massachusetts Institute of Technology
-Schaeffer15;2015;BoostCreativity;University;0613 Computer programming;Conference;International Conference on Tangible, Embedded and Embodied Interaction, TEI;ExperiencePaper;No evaluation;NA;Sweden;Mälardalens högskola
+Schaeffer15;2015;BoostCreativity;University;0613 Computer programming;Conference;International Conference on Tangible, Embedded and Embodied Interaction, TEI;ExperiencePaper;No evaluation;NA;Sweden;MÃ¤lardalens hÃ¶gskola
 schausberger15;2015;ReduceCosts;University;0722 Materials (glass, paper, plastic and wood);Journal;IEEE Access;ExperiencePaper;No evaluation;NA;Austria;Johannes Kepler University Linz
 seehra14;2014;ImproveTeachingMethod;K12;0714 Electronics and automation;Conference;Int. Conf. on Interaction Design and Children, IDC;ExperiencePaper;No evaluation;NA;USA;Purdue University
 riofrio13;2013;Engagement;University;0715 Mechanics and metal trades;Conference;American Society for Engineering Education conf. and exposition, ASEE;ExperiencePaper;No evaluation;NA;UK;Western New England University
 Guldenpfennig17;2017;ReduceCosts;University;0613 Computer programming;Conference;International BCS Human Computer Interaction Conference;SolutionProposal;Qualitative;27;Austria;TU Wien
 sheh14;2014;ReduceCosts;K12-University;0714 Electronics and automation;Conference;IEEE International Symposium on Safety, Security, and Rescue Robotics;ExperiencePaper;No evaluation;Na;Australia;Curtin University
 rochadel12;2012;ImproveTeachingMethod;K12-University;0533 Physics;Conference;IEEE Global Engineering Education Conf., EDUCON;ExperiencePaper;No evaluation;NA;Brazil;Universidade Federal de Santa Catarina
-Rodriguez16b;2016;ReduceCosts;University;0714 Electronics and automation;Conference;Latin American Computing Conference;ExperiencePaper;No evaluation;NA;Costa Rica;Centro Académico de Alajuela
+Rodriguez16b;2016;ReduceCosts;University;0714 Electronics and automation;Conference;Latin American Computing Conference;ExperiencePaper;No evaluation;NA;Costa Rica;Centro AcadÃ©mico de Alajuela
 Dillon16;2016;ReduceCosts;University;0533 Physics;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;Qualitative;29;USA;University of Portland
 rosenbaum10;2010;Engagement;AdultEducation;0212 Design;Conference;International Conference on Tangible, Embedded and Embodied Interaction, TEI;ExperiencePaper;No evaluation;NA;USA;Massachusetts Institute of Technology
 Russell16;2016;ImproveTeachingMethod;K12;0613 Computer programming;Conference;ACM Conference on Innovation and Technology in Computer Science Education, ITiCSE;ExperiencePaper;No evaluation;NA;USA;University of Hartford
@@ -225,7 +225,7 @@ Santos16b;2016;Engagement;K12;0613 Computer programming;Conference;Latin America
 sarao16;2016;Engagement;K12;0533 Physics;Journal;Seismological Research Letters;ExperiencePaper;No evaluation;NA;Italy;Istituto Nazionale di Oceanografia e Geofisica Sperimentale
 goadrich14;2014;ImproveTeachingMethod;K12-University;0613 Computer programming;Journal;Journal of Computing Sciences in Colleges;EvaluationResearch;Both;30;USA;Centenary College of Lousiana
 tasnim14;2014;ImproveTeachingMethod;K12;0541 Mathematics;Conference;International Conference on Computer and Information Technology;ExperiencePaper;No evaluation;NA;Bangladesh;Bangladesh University of Engineering and Technology
-Schaeffer16;2016;BoostCreativity;University;0212 Design;Conference;International Conference on Tangible, Embedded and Embodied Interaction, TEI;ExperiencePaper;No evaluation;NA;Sweden;Mälardalen University
+Schaeffer16;2016;BoostCreativity;University;0212 Design;Conference;International Conference on Tangible, Embedded and Embodied Interaction, TEI;ExperiencePaper;No evaluation;NA;Sweden;MÃ¤lardalen University
 ghedi15;2015;ReduceCosts;University;0714 Electronics and automation;Conference;International Conference of the IEEE Engineering in Medicine and Biology Society;EvaluationResearch;Qualitative;30;Italy;Clinical Engineering A.O. Treviglio-Caravaggio
 tian14;2014;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;ExperiencePaper;No evaluation;8;USA;Eastern Mennonite University
 schweikardt07a;2007;BoostCreativity;K12;0714 Electronics and automation;Conference;ACM Conference on Creativity & Cognition, C&C;ExperiencePaper;No evaluation;NA;USA;Carnegie Mellon University
@@ -233,14 +233,14 @@ schweikardt09;2009;ImproveTeachingMethod;K12;0613 Computer programming;Conferenc
 ursutiu15;2015;BoostCreativity;K12;0714 Electronics and automation;Conference;Experiment@ International Conference, exp.at;ExperiencePaper;No evaluation;NA;Romania;Transilvania University of Brasov
 weller09;2009;Engagement;K12;0613 Computer programming;Conference;Int. Conf. on Interaction Design and Children, IDC;EvaluationResearch;Qualitative;30;USA;Carnegie Mellon University
 vechet14;2014;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;International Conference on Mechatronics - Mechatronika;ExperiencePaper;No evaluation;NA;Czech Republic;Brno University of Technology
-silva17;2017;ImproveTeachingMethod;University;0541 Mathematics;Conference;IEEE World Engineering Education Conference;ExperiencePaper;No evaluation;NA;Brazil;Federal University of São João del-Rei
+silva17;2017;ImproveTeachingMethod;University;0541 Mathematics;Conference;IEEE World Engineering Education Conference;ExperiencePaper;No evaluation;NA;Brazil;Federal University of SÃ£o JoÃ£o del-Rei
 Ziaeefard17;2017;Engagement;K12;0716 Motor vehicles, ships and aircraft;Conference;Frontiers in Education Conference, FIE;ExperiencePaper;Both;31;USA;Michigan Technological University
 sipitakiat13;2013;Engagement;K12;0613 Computer programming;Conference;Int. Conf. on Interaction Design and Children, IDC;ExperiencePaper;No evaluation;NA;Thailand;Chiang Mai University
 skraba16;2016;Engagement;University;0714 Electronics and automation;Conference;International Conference on Informatics in Control, Automation and Robotics;ExperiencePaper;No evaluation;NA;Slovenia;University of Maribor
 analytis15;2015;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;International Conference on Design Creativity, Indian Institute of Science, Bangalore;SolutionProposal;Both;32;USA;Stanford University
 skrabanek16;2016;ReduceCosts;University;0714 Electronics and automation;Journal;IFAC-PapersOnLine;ExperiencePaper;No evaluation;NA;Czech Republic;University of Pardubice
 wirth14;2014;ImproveTeachingMethod;University;0613 Computer programming;Conference;Western Canadian Conference on Computing Education;ExperiencePaper;No evaluation;NA;Canada;University of Guelph
-wolfer15;2015;ImproveTeachingMethod;University;0613 Computer programming;Conference;IEEE Global Engineering Education Conf., EDUCON;ExperiencePaper;No evaluation;NA;USA;Indiana University 
+wolfer15;2015;ImproveTeachingMethod;University;0613 Computer programming;Conference;IEEE Global Engineering Education Conf., EDUCON;ExperiencePaper;No evaluation;NA;USA;Indiana UniversityÂ 
 speed13;2013;ImproveTeachingMethod;K12-University;0714 Electronics and automation;Conference;International Conference on Tangible, Embedded and Embodied Interaction, TEI;ExperiencePaper;No evaluation;NA;UK;University of Edinburgh
 kazemitabaar17;2017;Engagement;K12;0723 Textiles;Conference;ACM Conf. on Human Factors in Computing Systems, CHI;SolutionProposal;Qualitative;32;USA;University of Maryland
 spivey11;2011;ReduceCosts;K12-University;0715 Mechanics and metal trades;Conference;American Society for Engineering Education conf. and exposition, ASEE;ExperiencePaper;No evaluation;NA;USA;George Fox University
@@ -259,7 +259,7 @@ west17;2017;Engagement;K12-University;0714 Electronics and automation;Conference
 wetzstein17;2017;ImproveTeachingMethod;University;0613 Computer programming;Conference;International Conference on Computer Graphics and Interactive Techniques, SIGGRAPH;ExperiencePaper;No evaluation;NA;USA;Stanford University
 wolfer16;2016;ReduceCosts;University;0613 Computer programming;Journal;International Journal of Online Engineering;ExperiencePaper;No evaluation;NA;USA;Indiana University South Bend
 Yamada16b;2016;FeedLearningAnalytics;University;0714 Electronics and automation;Conference;International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing;ExperiencePaper;No evaluation;NA;Japan;Fukuoka Institute of Technology
-yamada17;2017;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;IEEE International Conference on Advance Information Networking and Applications;ExperiencePaper;No evaluation;NA;Japan;Fukuoka Institute of Technology
+yamada17;2017;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;IEEE International Conference onÂ AdvanceÂ Information Networking and Applications;ExperiencePaper;No evaluation;NA;Japan;Fukuoka Institute of Technology
 zakaria17;2017;ReduceCosts;University;0714 Electronics and automation;Journal;MATEC Web of Conferences;ExperiencePaper;No evaluation;NA;Malaysia;Universiti Tun Hussein Onn Malaysia
 Zulkifli16;2016;ReduceCosts;University;0713 Electricity and energy;Conference;IEEE International Conference on Automatic Control and Intelligent Systems;ExperiencePaper;No evaluation;NA;Malaysia;Universiti Tun Hussein Onn Malaysia
 Tewolde17;2017;Engagement;University;0714 Electronics and automation;Conference;Frontiers in Education Conference, FIE;ExperiencePaper;No evaluation;NA;USA;Kettering University
@@ -272,7 +272,7 @@ Braghin17;2017;Engagement;University;0714 Electronics and automation;Journal;Int
 barbulescu11;2011;ImproveTeachingMethod;University;0613 Computer programming;Conference;RoEduNet International Conference;OpinionPaper;No evaluation;NA;Romania;National Research and Education Network
 adamo15;2015;ReduceCosts;University;0714 Electronics and automation;Conference;IEEE International Instrumentation and Measurement Technology Conference ;OpinionPaper;No evaluation;NA;Italy;Polytechnic of Bari
 eliasz09;2009;ImproveTeachingMethod;University;0714 Electronics and automation;Journal;Communications in Computer and Information Science;OpinionPaper;No evaluation;NA;UK;First Technology Transfer Ltd.
-cuartielles15;2015;BoostCreativity;K12;0613 Computer programming;Journal;ecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics;OpinionPaper;No evaluation;NA;Sweden;Malmö University
+cuartielles15;2015;BoostCreativity;K12;0613 Computer programming;Journal;ecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics;OpinionPaper;No evaluation;NA;Sweden;MalmÃ¶ University
 GarciaPenalvo16;2016;ReduceCosts;K12;0613 Computer programming;Conference;International Conference on Technological Ecosystems for Enhancing Multiculturality;OpinionPaper;No evaluation;NA;Spain;University of Salamanca
 ebbage14;2014;ImproveTeachingMethod;K12;0714 Electronics and automation;Journal;Engineering and Technology;OpinionPaper;No evaluation;NA;UK;Liverpool John Moores University
 galadima14;2014;ImproveTeachingMethod;K12-University;0714 Electronics and automation;Conference;International Conference on Electronics, Computer and Computation ;OpinionPaper;No evaluation;Na;Nigeria;Nigerian Turkish Nile University
@@ -339,13 +339,13 @@ black16;2016;ReduceCosts;University;0714 Electronics and automation;Journal;Jour
 bolanakis17;2017;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;IEEE Global Engineering Education Conf., EDUCON;SolutionProposal;No evaluation;NA;Greece;Hellenic Air Force Academy
 bougot16;2016;ImproveTeachingMethod;University;0531 Chemistry;Journal;Journal of Chemical Education;SolutionProposal;No evaluation;NA;UK;Imperial College
 bousaba16;2016;Reusability;University;0613 Computer programming;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;No evaluation;NA;USA;Guilford College
-brinkmeier16;2016;ReduceCosts;K12;0613 Computer programming;Conference;Workshop in Primary and Secondary Computing Education;SolutionProposal;No evaluation;NA;Germany;Universität Osnabrück
+brinkmeier16;2016;ReduceCosts;K12;0613 Computer programming;Conference;Workshop in Primary and Secondary Computing Education;SolutionProposal;No evaluation;NA;Germany;UniversitÃ¤t OsnabrÃ¼ck
 brox16;2016;ReduceCosts;University;0533 Physics;Journal;Technologies Applied to Electronics Teaching;SolutionProposal;No evaluation;NA;Spain;Universidad de Sevilla
 abdelrahman15;2015;ImproveTeachingMethod;K12-University;0211 Audio-visual techniques and media production;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;No evaluation;NA;USA;Texas A&M University-Kingsville
-carvalho16;2016;ReduceCosts;K12;0533 Physics;Conference;IEEE Frontiers in Education Conference, FIE;SolutionProposal;No evaluation;NA;Brazil;Centro De Estudos Avançados do Recife
-carvalho16b;2016;ReduceCosts;K12;0533 Physics;Journal;Physics Teacher;SolutionProposal;No evaluation;NA;Brazil;Centro De Estudos Avançados do Recife
+carvalho16;2016;ReduceCosts;K12;0533 Physics;Conference;IEEE Frontiers in Education Conference, FIE;SolutionProposal;No evaluation;NA;Brazil;Centro De Estudos AvanÃ§ados do Recife
+carvalho16b;2016;ReduceCosts;K12;0533 Physics;Journal;Physics Teacher;SolutionProposal;No evaluation;NA;Brazil;Centro De Estudos AvanÃ§ados do Recife
 gomes14;2014;ImproveTeachingMethod;University;0613 Computer programming;Conference;IEEE International Symposium on Industrial Electronics;EvaluationResearch;Both;51;Portugal;Universidad Nova de Lisboa
-Castaneda16;2016;ReduceCosts;University;0714 Electronics and automation;Conference;IEEE Colombian Conference on Robotics and Automation, CCRA;SolutionProposal;No evaluation;NA;Colombia;Universidad Antonio Nariño
+Castaneda16;2016;ReduceCosts;University;0714 Electronics and automation;Conference;IEEE Colombian Conference on Robotics and Automation, CCRA;SolutionProposal;No evaluation;NA;Colombia;Universidad Antonio NariÃ±o
 albayrak15;2015;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;IEEE International Conference on Fuzzy Systems;SolutionProposal;No evaluation;NA;Turkey;Karadeniz Technical University
 chaklader13;2013;ReachMoreTargets;K12-University;0923 Social work and counselling;Conference;International Conference on Advances in Electrical Engineering;SolutionProposal;No evaluation;NA;India;Independent University
 albocanals14;2014;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;Iberian Conference on Information Systems and Technologies;SolutionProposal;No evaluation;NA;Spain;La Salle - Ramon Llull University
@@ -354,14 +354,14 @@ Altadmri15;2015;ReduceCosts;University;0613 Computer programming;Conference;ACM 
 cheong16;2016;ImproveTeachingMethod;University;0613 Computer programming;Journal;Asian Journal of Information Technology;SolutionProposal;No evaluation;NA;Malaysia;Multimedia University
 reckenwald11;2011;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;ExperiencePaper;Quantitative;52;USA;Portland State University
 Chiou16;2016;ReduceCosts;University;0716 Motor vehicles, ships and aircraft;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;No evaluation;NA;USA;Drexel University
-amaxilatis14;2014;ImproveTeachingMethod;K12-University;0613 Computer programming;Book;System-Level Design Methodologies for Telecommunication;SolutionProposal;No evaluation;NA;Greece;Computer Technology Institute and Press “Diofantus”
+amaxilatis14;2014;ImproveTeachingMethod;K12-University;0613 Computer programming;Book;System-Level Design Methodologies for Telecommunication;SolutionProposal;No evaluation;NA;Greece;Computer Technology Institute and Press Â“DiofantusÂ”
 Cisar16;2016;FeedLearningAnalytics;K12-University;0111 Education science;Conference;International Symposium on Intelligent Systems and Informatics;SolutionProposal;No evaluation;NA;Serbia;Subotica Tech
 parikh15;2015;ImproveTeachingMethod;K12;0714 Electronics and automation;Conference;IEEE Frontiers in Education Conference, FIE;EvaluationResearch;Both;54;USA;Grand Valley State University
-assante15;2015;ReduceCosts;University;0714 Electronics and automation;Conference;IEEE Global Engineering Education Conf., EDUCON;SolutionProposal;No evaluation;NA;Italy;Università Telematica Internazionale UNINETTUNO
+assante15;2015;ReduceCosts;University;0714 Electronics and automation;Conference;IEEE Global Engineering Education Conf., EDUCON;SolutionProposal;No evaluation;NA;Italy;UniversitÃ  Telematica Internazionale UNINETTUNO
 Colombo16;2016;ImproveTeachingMethod;K12;0915 Therapy and rehabilitation;Conference;International Working Conference on Advanced Visual Interfaces;SolutionProposal;No evaluation;NA;Italy;Politecnico di Milano
 Magana17;2017;ImproveTeachingMethod;University;0533 Physics;Journal;International Journal of Engineering Education;EvaluationResearch;Quantitative;57;USA;Purdue University
-assante15b;2015;ImproveTeachingMethod;University;0714 Electronics and automation;Journal;International Journal of Interactive Mobile Technologies;SolutionProposal;No evaluation;NA;Italy;Università Telematica Internazionale
-Assante15c;2015;ReduceCosts;University;0714 Electronics and automation;Conference;IEEE Global Engineering Education Conf., EDUCON;SolutionProposal;No evaluation;NA;Italy;Università Telematica Internazionale
+assante15b;2015;ImproveTeachingMethod;University;0714 Electronics and automation;Journal;International Journal of Interactive Mobile Technologies;SolutionProposal;No evaluation;NA;Italy;UniversitÃ  Telematica Internazionale
+Assante15c;2015;ReduceCosts;University;0714 Electronics and automation;Conference;IEEE Global Engineering Education Conf., EDUCON;SolutionProposal;No evaluation;NA;Italy;UniversitÃ  Telematica Internazionale
 bajzek15;2015;ReduceCosts;K12;0714 Electronics and automation;Conference;IEEE Blocks and Beyond Workshop;SolutionProposal;No evaluation;NA;USA;Marquette University
 covington09;2009;Reusability;University;0714 Electronics and automation;Conference;IEEE International Conference on Microelectronic Systems Education, MSE;SolutionProposal;No evaluation;NA;USA;Stanford University
 baker14;2014;ImproveTeachingMethod;K12-University;0613 Computer programming;Conference;Workshop on Programming for Mobile and Touch;SolutionProposal;No evaluation;NA;UK;University College London
@@ -430,7 +430,7 @@ hajdarevic14;2014;ReduceCosts;University;0613 Computer programming;Conference;In
 zouganeli14;2014;ImproveTeachingMethod;University;0613 Computer programming;Conference;International Federation of Automatic Control Proceedings Volumes;EvaluationResearch;Both;72;Norway;Oslo and Akershus University College of Applied Sciences
 Hajdarevic15;2015;ReduceCosts;University;0613 Computer programming;Conference;International Convention on Information and Communication Technology, Electronics and Microelectronics;SolutionProposal;No evaluation;NA;Bosnia and Herzegovina;University of Sarajevo
 hassan15;2015;ImproveTeachingMethod;K12-University;0915 Therapy and rehabilitation;Journal;Lecture Notes in Computer Science;SolutionProposal;No evaluation;NA;Pakistan;National University of Sciences and Technology
-irigoyen13;2013;ImproveTeachingMethod;University;0613 Computer programming;Journal;IFAC-PapersOnLine;SolutionProposal;No evaluation;NA;Spain;Universidad del País Vasco
+irigoyen13;2013;ImproveTeachingMethod;University;0613 Computer programming;Journal;IFAC-PapersOnLine;SolutionProposal;No evaluation;NA;Spain;Universidad del PaÃ­s Vasco
 reck15b;2015;ReduceCosts;K12;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;EvaluationResearch;Qualitative;75;USA;University of Illinois
 guerra16j;2016;ImproveTeachingMethod;University;0613 Computer programming;Journal;International Journal of Online Engineering;ExperiencePaper;Quantitative;77;Portugal;University of Minho
 ishikawa09;2009;Reusability;University;0714 Electronics and automation;Journal;IFAC-PapersOnLine;SolutionProposal;No evaluation;NA;Japan;University of Kyoto
@@ -457,21 +457,21 @@ jiuqiang15;2015;ImproveTeachingMethod;K12;0714 Electronics and automation;Confer
 Katterfeldt16;2016;ReduceCosts;K12;0533 Physics;Conference;Int. Conf. on Interaction Design and Children, IDC;SolutionProposal;Quantitative;87;Germany;University of Bremen
 Kim16;2016;Engagement;University;0613 Computer programming;Journal;International Journal of Software Engineering and its Applications;SolutionProposal;No evaluation;NA;South Korea;Mokwon University
 kobeissi17;2017;ImproveTeachingMethod;K12;0541 Mathematics;Conference;International Conference on Advanced Learning Technologies, ICALT;SolutionProposal;No evaluation;NA;Italy;University of Genoa
-Kopic16;2016;Engagement;K12;0714 Electronics and automation;Conference;International Conference on Tangible, Embedded and Embodied Interaction, TEI;SolutionProposal;No evaluation;NA;Germany;Bauhaus-Universität Weimar
+Kopic16;2016;Engagement;K12;0714 Electronics and automation;Conference;International Conference on Tangible, Embedded and Embodied Interaction, TEI;SolutionProposal;No evaluation;NA;Germany;Bauhaus-UniversitÃ¤t Weimar
 katterfeldt15;2015;ImproveTeachingMethod;K12;0111 Education science;Journal;International Journal of Child-Computer Interaction;SolutionProposal;No evaluation;NA;Germany;University of Bremen
 Musik17;2017;ImproveTeachingMethod;University;0533 Physics;Journal;Turkish Online Journal of Educational Technology;SolutionProposal;Quantitative;96;Thailand;Nakhon Si Thammarat Rajabhat University
 kiran14;2014;ReduceCosts;University;0613 Computer programming;Conference;International Conference on Industrial and Information Systems;SolutionProposal;No evaluation;NA;India;Bangalore University
-kochlan14;2014;Engagement;K12;0714 Electronics and automation;Conference;International Conference on Robotics in Alpe-Adria-Danube Region;SolutionProposal;No evaluation;NA;Slovakia;University of Žilina Univerzitná 
+kochlan14;2014;Engagement;K12;0714 Electronics and automation;Conference;International Conference on Robotics in Alpe-Adria-Danube Region;SolutionProposal;No evaluation;NA;Slovakia;University of ÂŽilina UniverzitnÃ¡Â 
 Kyuchukova15;2015;ReduceCosts;University;0613 Computer programming;Conference;International Conference on Information Technology Based Higher Education and Training;SolutionProposal;No evaluation;NA;Bulgaria;University of Ruse
 Kehinde16;2016;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;Quantitative;100;Nigeria;Obafemi Awolowo University
 Lee16;2016;Reusability;University;0713 Electricity and energy;Conference;IEEE Power and Energy Society General Meeting;SolutionProposal;No evaluation;NA;USA;John Brown University
 lee17;2017;ImproveTeachingMethod;K12;0612 Database and network design and administration;Journal;ARPN Journal of Engineering and Applied Sciences;SolutionProposal;No evaluation;NA;South Korea;Korea National University of Education
-Lefeuvre16;2016;Engagement;University;0611 Computer use;Conference;Nordic Conference on Human-Computer Interaction;SolutionProposal;No evaluation;NA;Germany;Technische Universität Chemnitz
+Lefeuvre16;2016;Engagement;University;0611 Computer use;Conference;Nordic Conference on Human-Computer Interaction;SolutionProposal;No evaluation;NA;Germany;Technische UniversitÃ¤t Chemnitz
 li17b;2017;FeedLearningAnalytics;University;0613 Computer programming;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;No evaluation;NA;USA;Indiana University-Purdue University Indianapolis
 Lima16;2016;ReduceCosts;K12-University;0533 Physics;Conference;International Conference on Remote Engineering and Virtual Instrumentation, REV;SolutionProposal;No evaluation;NA;Brazil;Universidade Federal de Santa Catarina
-laranino14;2014;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;International Conference on ReConFigurable Computing and FPGAs;SolutionProposal;No evaluation;NA;Mexico;Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional
+laranino14;2014;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;International Conference on ReConFigurable Computing and FPGAs;SolutionProposal;No evaluation;NA;Mexico;Centro de InvestigaciÃ³n y de Estudios Avanzados del Instituto PolitÃ©cnico Nacional
 lohmann12;2012;ReduceCosts;University;0714 Electronics and automation;Conference;International Conference on the Simulation and Synthesis of Living Systems;SolutionProposal;No evaluation;NA;USA;Cornell University
-lorente10;2010;BoostCreativity;University;0714 Electronics and automation;Conference;IEEE Global Engineering Education Conf., EDUCON;SolutionProposal;No evaluation;NA;Spain;Universidad Politécnica de Madrid
+lorente10;2010;BoostCreativity;University;0714 Electronics and automation;Conference;IEEE Global Engineering Education Conf., EDUCON;SolutionProposal;No evaluation;NA;Spain;Universidad PolitÃ©cnica de Madrid
 lastovickamedin15;2015;ImproveTeachingMethod;K12;0533 Physics;Conference;Mediterranean Conference on Embedded Computing;SolutionProposal;No evaluation;NA;University of Montenegro;Montenegro
 Lawyer15;2015;ReduceCosts;University;0412 Finance, banking and insurance;Conference;ACM Conference on SIGUCCS;SolutionProposal;No evaluation;NA;Italy;Siena College
 Fratamico17;2017;ImproveTeachingMethod;University;0111 Education science;Journal;International Journal of Artificial Intelligence in Education;ValidationResearch;Both;100;Canada;University of British Columbia
@@ -487,7 +487,7 @@ McPherson15;2015;ReachMoreTargets;University;0714 Electronics and automation;Con
 Meyer16;2016;ReduceCosts;University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;No evaluation;NA;USA;Lawrence Technological University
 michels13;2013;ImproveTeachingMethod;University;0722 Materials (glass, paper, plastic and wood);Conference;Experiment@ International Conference, exp.at;SolutionProposal;No evaluation;NA;Brazil;Federal Institute of Santa Catarina
 Minaie16;2016;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;No evaluation;NA;USA;Utah Valley University
-molins-ruano17;2017;ImproveTeachingMethod;K12-University;0613 Computer programming;Journal;Computers in Human Behavior;SolutionProposal;No evaluation;NA;Spain;Universidad Autónoma de Madrid
+molins-ruano17;2017;ImproveTeachingMethod;K12-University;0613 Computer programming;Journal;Computers in Human Behavior;SolutionProposal;No evaluation;NA;Spain;Universidad AutÃ³noma de Madrid
 mondada17;2017;ReachMoreTargets;K12;0714 Electronics and automation;Journal;IEEE Robotics and Automation Magazine;SolutionProposal;No evaluation;NA;Switzerland;EPFL
 Mostefaoui15;2015;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;International Conference on Interactive Mobile Communication Technologies and Learning;SolutionProposal;No evaluation;NA;Algeria;University of Mostaganem
 muller15;2015;ImproveTeachingMethod;University;0713 Electricity and energy;Conference;Workshop on Control and Modeling for Power Electronics;SolutionProposal;No evaluation;NA;USA;Missouri University of Science and Technology
@@ -504,7 +504,7 @@ ngai10;2010;Engagement;K12;0723 Textiles;Conference;ACM Conf. on Human Factors i
 pereira14;2014;ReduceCosts;University;0912 Medicine;Journal;International Journal of Computer Assisted Radiology and Surgery;SolutionProposal;No evaluation;NA;Canada;University of Toronto
 oda17;2017;Engagement;University;0714 Electronics and automation;Journal;International Journal of Web and Grid Services;SolutionProposal;No evaluation;NA;Japan;Fukuoka Institute of Technology
 Fokides17;2017;ImproveTeachingMethod;K12;0613 Computer programming;Journal;Journal of Information Technology Education: Research;ValidationResearch;Both;138;Greece;University of the Aegean
-Oliveira16;2016;ReduceCosts;University;0613 Computer programming;Conference;Brazilian Symposium on Multimedia and the Web;SolutionProposal;No evaluation;NA;Brasil;Campus Patrocínio
+Oliveira16;2016;ReduceCosts;University;0613 Computer programming;Conference;Brazilian Symposium on Multimedia and the Web;SolutionProposal;No evaluation;NA;Brasil;Campus PatrocÃ­nio
 philipp14;2014;ImproveTeachingMethod;K12-University;0613 Computer programming;Conference;European Workshop on Microelectronics Education;SolutionProposal;No evaluation;NA;Germany;Technological University of Darmstadt
 pirtle14;2014;Engagement;K12-University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;No evaluation;NA;USA;University of Oklahoma
 Putjorn15;2015;BoostCreativity;K12;0613 Computer programming;Conference;Workshop on Do-it-yourself Networking: An Interdisciplinary Approach;SolutionProposal;No evaluation;NA;UK;University of Kent
@@ -512,7 +512,7 @@ Patil16;2016;ImproveTeachingMethod;University;0714 Electronics and automation;Co
 Pattanashetty16;2016;ReduceCosts;K12;0714 Electronics and automation;Conference;IEEE Global Humanitarian Technology Conference, GHTC;SolutionProposal;No evaluation;NA;India;Indian Institute of Information Technology
 riofrio15;2015;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;EvaluationResearch;Both;140;USA;Western New England University
 paull17;2017;ReduceCosts;University;0714 Electronics and automation;Conference;IEEE International Conference on Robotics and Automation;SolutionProposal;No evaluation;NA;USA;Massachusetts Institute of Technology
-Pauta16;2016;ImproveTeachingMethod;AdultEducation;0714 Electronics and automation;Conference;IEEE International Autumn Meeting on Power, Electronics and Computing ;SolutionProposal;No evaluation;NA;Ecuador;Universidad Politécnica Salesiana
+Pauta16;2016;ImproveTeachingMethod;AdultEducation;0714 Electronics and automation;Conference;IEEE International Autumn Meeting on Power, Electronics and Computing ;SolutionProposal;No evaluation;NA;Ecuador;Universidad PolitÃ©cnica Salesiana
 richards17;2017;ReachMoreTargets;AdultEducation;0723 Textiles;Conference;ACM Conf. on Human Factors in Computing Systems, CHI;ExperiencePaper;Quantitative;142;USA;Indiana University Bloomington
 peppler17;2017;ImproveTeachingMethod;University;0213 Fine arts;Journal;Arts Education Policy Review;SolutionProposal;No evaluation;NA;USA;Indiana University Bloomington
 real15;2015;ImproveTeachingMethod;K12-University;0714 Electronics and automation;Conference;Workshop on Information Processing and Control;SolutionProposal;No evaluation;NA;Argentina;Universidad Nacional de General Sarmiento
@@ -539,7 +539,7 @@ Retz16;2016;ReduceCosts;University;0714 Electronics and automation;Conference;Am
 sharma15;2015;ImproveTeachingMethod;K12-University;0231 Language acquisition;Conference;IEEE India Conference;SolutionProposal;No evaluation;NA;India;Bharati Vidyapeeth's College of Engineering
 sieber15;2015;ReduceCosts;K12-University;0714 Electronics and automation;Conference;The International Society for Optical Engineering;SolutionProposal;No evaluation;NA;Germany;Karlsruhe Institute of Technology
 rondon13;2013;ReduceCosts;University;0714 Electronics and automation;Conference;Latin American Robotics Symposium and Competition;SolutionProposal;No evaluation;NA;Venezuela;Universidad Nacional Experimental de Guayana
-silva15;2015;ReduceCosts;K12-University;0714 Electronics and automation;Conference;Science and Information Conference;SolutionProposal;No evaluation;NA;Portugal;Universidade de Trás-os-Montes e Alto Douro
+silva15;2015;ReduceCosts;K12-University;0714 Electronics and automation;Conference;Science and Information Conference;SolutionProposal;No evaluation;NA;Portugal;Universidade de TrÃ¡s-os-Montes e Alto Douro
 butterfield15;2015;BoostCreativity;University;0531 Chemistry;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;Both;143;USA;University of Utah
 Silva15a;2015;ReduceCosts;University;0713 Electricity and energy;Conference;Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference;SolutionProposal;No evaluation;NA;Brazil;Federal Institute of Santa Catarina
 soleiman14;2014;ImproveTeachingMethod;K12;0613 Computer programming;Conference;ACM Conf. on Human Factors in Computing Systems, CHI;SolutionProposal;No evaluation;NA;USA;"	Clemson University"
@@ -552,14 +552,14 @@ soriano14;2014;ReduceCosts;K12-University;0714 Electronics and automation;Confer
 Srivastava15;2015;ReduceCosts;University;0915 Therapy and rehabilitation;Conference;Augmented Human International Conference;SolutionProposal;No evaluation;NA;India;BITS Pilani
 sanfelice12;2012;ReduceCosts;K12;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;No evaluation;NA;USA;University of California
 tabuenca15;2015;ImproveTeachingMethod;K12;0613 Computer programming;Journal;Lecture Notes in Computer Science;SolutionProposal;No evaluation;NA;The Netherlands;Open University of the Netherlands
-Santos16c;2016;WomenEngagement;K12-University;0714 Electronics and automation;Conference;International Conference on Advances in Computing, Communications and Informatics;SolutionProposal;No evaluation;NA;Brazil;Instituto Federal de Goiás
-Santos2016d;2016;ImproveTeachingMethod;University;0613 Computer programming;Conference;IEEE Biennial Congress of Argentina;SolutionProposal;No evaluation;NA;Argentina;Centro Cientifico Tecnologico de Bahía Blanca
+Santos16c;2016;WomenEngagement;K12-University;0714 Electronics and automation;Conference;International Conference on Advances in Computing, Communications and Informatics;SolutionProposal;No evaluation;NA;Brazil;Instituto Federal de GoiÃ¡s
+Santos2016d;2016;ImproveTeachingMethod;University;0613 Computer programming;Conference;IEEE Biennial Congress of Argentina;SolutionProposal;No evaluation;NA;Argentina;Centro Cientifico Tecnologico de BahÃ­a Blanca
 Tarnoff15;2015;ReduceCosts;University;0613 Computer programming;Journal;Computing Sciences in Colleges ;SolutionProposal;No evaluation;NA;USA;East Tennessee State University
 tenra14;2014;ImproveTeachingMethod;K12;0533 Physics;Conference;International Conference on Computers in Education;SolutionProposal;No evaluation;NA;Japan;Tokyo Metropolitan Koishikawa Secondary Education School
-Scholz16;2016;ReduceCosts;University;0723 Textiles;Journal;European Journal of Physics;SolutionProposal;No evaluation;NA;Germany;Friedrich-Alexander-Universtät
+Scholz16;2016;ReduceCosts;University;0723 Textiles;Journal;European Journal of Physics;SolutionProposal;No evaluation;NA;Germany;Friedrich-Alexander-UniverstÃ¤t
 Schultz16;2016;ReduceCosts;University;0613 Computer programming;Journal;American Journal of Physics;SolutionProposal;No evaluation;NA;USA;Hartwick College
 Searle16;2016;ReachMoreTargets;K12;0723 Textiles;Conference;Conference on Creativity and Fabrication in Education, FabLearn;SolutionProposal;No evaluation;NA;USA;Utah State University
-torroja15;2015;ImproveTeachingMethod;K12-University;0613 Computer programming;Conference;Conference on Design of Circuits and Integrated Systems;SolutionProposal;No evaluation;NA;Spain;Universidad Politécnica de Madrid
+torroja15;2015;ImproveTeachingMethod;K12-University;0613 Computer programming;Conference;Conference on Design of Circuits and Integrated Systems;SolutionProposal;No evaluation;NA;Spain;Universidad PolitÃ©cnica de Madrid
 SendoyaLosada16;2016;ReduceCosts;University;0714 Electronics and automation;Journal;ARPN Journal of Engineering and Applied Sciences;SolutionProposal;No evaluation;NA;Colombia;Surcolombiana University
 gupta12;2012;BoostCreativity;K12;0714 Electronics and automation;Conference;International Conference on Technology Enhanced Education;EvaluationResearch;Quantitative;150;India;National Institute of Technology Karnakata
 turley15;2015;ImproveTeachingMethod;K12;0613 Computer programming;Conference;ASME Design Engineering Technical Conference;SolutionProposal;No evaluation;NA;USA;University of California
@@ -575,8 +575,8 @@ page15;2015;ImproveTeachingMethod;K12;0714 Electronics and automation;Journal;In
 sharpe15;2015;ImproveTeachingMethod;K12;0533 Physics;Conference;American Society for Engineering Education conf. and exposition, ASEE;EvaluationResearch;Both;182;USA;Portland State University
 vervaeke15;2015;ImproveTeachingMethod;K12-University;1014 Sports;Conference;International Conference on Intelligent Technologies for Interactive Entertainment;SolutionProposal;No evaluation;NA;Belgium;Ghent University
 Petry16;2016;Engagement;University;0533 Physics;Journal;Technologies Applied to Electronics Teaching;SolutionProposal;Qualitative;195;Brazil;Instituto Federal de Santa Catarina
-walzik14;2014;ReduceCosts;University;0912 Medicine;Journal;Biosensors and Bioelectronics;SolutionProposal;No evaluation;NA;Germany;Friedrich-Alexander-Universität Erlangen-Nürnberg
-Silva16;2016;Engagement;University;0613 Computer programming;Conference;SAI Computing Conference;SolutionProposal;No evaluation;NA;Portugal;Universidad de Trás-os-Montes e Alto Douro
+walzik14;2014;ReduceCosts;University;0912 Medicine;Journal;Biosensors and Bioelectronics;SolutionProposal;No evaluation;NA;Germany;Friedrich-Alexander-UniversitÃ¤t Erlangen-NÃ¼rnberg
+Silva16;2016;Engagement;University;0613 Computer programming;Conference;SAI Computing Conference;SolutionProposal;No evaluation;NA;Portugal;Universidad de TrÃ¡s-os-Montes e Alto Douro
 Simao16;2016;ReduceCosts;K12-University;0715 Mechanics and metal trades;Conference;International Conference on Remote Engineering and Virtual Instrumentation, REV;SolutionProposal;No evaluation;NA;Brasil;Universidade Federal de Santa Catarina
 Sirkin16;2016;ReachMoreTargets;K12-University;0714 Electronics and automation;Conference;ACM Conf. on Human Factors in Computing Systems, CHI;SolutionProposal;No evaluation;NA;USA;Stanford University
 delatorre15;2015;ReduceCosts;University;0533 Physics;Journal;IEEE Transactions on Industrial Informatics;SolutionProposal;Quantitative;197;Spain;Universidad Nacional de Educacion a Distancia
@@ -598,7 +598,7 @@ buechley10a;2010;ReachMoreTargets;K12-University;0723 Textiles;Conference;ACM Co
 aaron13;2013;Engagement;K12;0613 Computer programming;Conference;ACM SIGPLAN Workshop on Functional Art, Music, Modeling \& Design;SolutionProposal;Qualitative;NA;UK;University of Cambridge
 xiang15;2015;ReduceCosts;University;0714 Electronics and automation;Journal;Lecture Notes in Computer Science;SolutionProposal;No evaluation;NA;Greece;University of Patras
 demelo14;2014;ImproveTeachingMethod;K12;0613 Computer programming;Conference;Iberian Conference on Information Systems and Technologies;EvaluationResearch;Both;NA;Brazil;Federal Institute of Pernambuco
-Souza16;2016;Engagement;University;0714 Electronics and automation;Conference;IEEE Biennial Congress of Argentina;SolutionProposal;No evaluation;NA;Brazil;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba
+Souza16;2016;Engagement;University;0714 Electronics and automation;Conference;IEEE Biennial Congress of Argentina;SolutionProposal;No evaluation;NA;Brazil;Instituto Federal de EducaÃ§Ã£o, CiÃªncia e Tecnologia da ParaÃ­ba
 analytis17;2017;ImproveTeachingMethod;University;0714 Electronics and automation;Journal;International Journal of Design Creativity and Innovation;ExperiencePaper;Qualitative;NA;USA;Stanford University
 berry16;2016;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;Both;NA;USA;Rose-Hulman Institute of Technology
 srinivasan13;2013;ReachMoreTargets;AdultEducation;0923 Social work and counselling;Conference;IEEE Global Humanitarian Technology Conference, GHTC;SolutionProposal;No evaluation;NA;India;IEEE Special Interest Group in Humanitarian Technology (SIGHT)
@@ -621,7 +621,7 @@ He2016b;2016;ReduceCosts;University;0613 Computer programming;Conference;IEEE Fr
 Kojmane16;2016;Engagement;K12;0714 Electronics and automation;Conference;International Conference on Information Technology for Organizations Development ;SolutionProposal;Both;NA;Morocco;Faculty of Science and Technology
 tseng12;2012;BoostCreativity;K12;0723 Textiles;Conference;Int. Conf. on Interaction Design and Children, IDC;SolutionProposal;No evaluation;NA;USA;Massachusetts Institute of Technology
 tvaruzka16;2016;ReduceCosts;University;0211 Audio-visual techniques and media production;Journal;Journal of Telecommunication, Electronic and Computer Engineering;SolutionProposal;No evaluation;NA;Czech Republic;University of Ostrava
-varanis16;2016;ReduceCosts;University;0533 Physics;Journal;Revista Brasileira de Ensino de Física;SolutionProposal;No evaluation;NA;Brazil;Universidade Federal do Grande Dourados
+varanis16;2016;ReduceCosts;University;0533 Physics;Journal;Revista Brasileira de Ensino de FÃ­sica;SolutionProposal;No evaluation;NA;Brazil;Universidade Federal do Grande Dourados
 kojmane16b;2016;ImproveTeachingMethod;University;0714 Electronics and automation;Journal;International Journal of Mechanical Engineering Education;PhilosophicalPaper;Both;NA;Morocco;University Sidi Mohammed Ben Abdellah
 Vizner16;2016;BoostCreativity;K12;0111 Education science;Conference;Conference on Creativity and Fabrication in Education, FabLearn;SolutionProposal;No evaluation;NA;USA;Tufts University
 Wang16a;2016;Engagement;AdultEducation;0915 Therapy and rehabilitation;Conference;ACM Conf. on Human Factors in Computing Systems, CHI;SolutionProposal;No evaluation;NA;Singapore;National University of Singapore
@@ -655,7 +655,7 @@ Stuikys17;2017;ImproveTeachingMethod;University;0613 Computer programming;Journa
 Bansal17;2017;ReduceCosts;University;0613 Computer programming;Conference;ACM International Conference Proceeding Series;SolutionProposal;No evaluation;NA;USA;Marquette University
 tzac13;2013;ImproveTeachingMethod;K12;0714 Electronics and automation;Conference;Int. Conf. on Interactive Collaborative Learning, ICL;ExperiencePaper;Qualitative;NA;Slovak Republic;Trnava University 
 GomesFilho17;2017;ImproveTeachingMethod;University;0613 Computer programming;Conference;Workshop on Agile Methods;SolutionProposal;No evaluation;NA;Brazil;Universidade Federal do Rio de Janeiro
-Hernandez17;2017;ReduceCosts;University;0912 Medicine;Conference;International Federation for Medical and Biological Engineering Conference;SolutionProposal;No evaluation;NA;Mexico;Universidad Nacional Autónoma de México
+Hernandez17;2017;ReduceCosts;University;0912 Medicine;Conference;International Federation for Medical and Biological Engineering Conference;SolutionProposal;No evaluation;NA;Mexico;Universidad Nacional AutÃ³noma de MÃ©xico
 Leblanc17;2017;ReduceCosts;University;0533 Physics;Journal;PeerJ Computer Science;SolutionProposal;No evaluation;NA;Australia;University of Western Australia
 junk15;2015;ImproveTeachingMethod;K12;0714 Electronics and automation;Conference;International Conference on Information Technology Based Higher Education and Training;EvaluationResearch;Qualitative;NA;Germany;University of Applied Sciences
 vicuna17;2017;FeedLearningAnalytics;AdultEducation;0613 Computer programming;Journal;International Journal of Applied Engineering Research;ValidationResearch;Qualitative;NA;Ecuador;Technical University of Machala
@@ -666,7 +666,7 @@ virnes08;2008;ImproveTeachingMethod;K12;0714 Electronics and automation;Conferen
 gutierrez14;2014;ImproveTeachingMethod;K12;0714 Electronics and automation;Conference;Int. Conf. on Interactive Collaborative Learning, ICL;SolutionProposal;No evaluation;NA;Colombia;Universidad Nacional de Colombia
 vona13;2013;Reusability;K12-University;0714 Electronics and automation;Journal;IEEE Transactions on Education;ExperiencePaper;Quantitative;NA;USA;Northeastern University of Boston
 winkler09;2009;BoostCreativity;K12-University;0723 Textiles;Conference;Int. Conf. on Interaction Design and Children, IDC;SolutionProposal;Qualitative;NA;Germany;University of Luebeck
-vaz14;2014;ImproveTeachingMethod;K12;0111 Education science;Conference;Symposium on Virtual and Augmented Reality;ExperiencePaper;Qualitative;NA;Brazil;Federal University of Pernambuco
+vaz14;2014;ImproveTeachingMethod;K12;0111 Education science;Conference;Symposium on Virtual and Augmented Reality;ExperiencePaper;Qualitative;NA;Brazil;FederalÂ University of Pernambuco
 yip17;2017;ReduceCosts;K12-University;0714 Electronics and automation;Journal;IEEE Robotics and Automation Magazine;SolutionProposal;Qualitative;NA;USA;University of California
 karunaratne17;2017;ImproveTeachingMethod;University;0714 Electronics and automation;Conference;American Society for Engineering Education conf. and exposition, ASEE;SolutionProposal;No evaluation;NA;USA;University of Pittsburgh
 Yoo16;2016;Engagement;K12;0611 Computer use;Conference;IEEE Integrated STEM Education Conference, ISEC;ExperiencePaper;Quantitative;NA;USA;Fairfield University
